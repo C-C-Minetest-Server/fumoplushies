@@ -1,0 +1,11 @@
+# textdomain: fumoplushies
+Cirno=
+Fairy of the Ice=
+Hakurei Reimu=
+Shrine Maiden of Paradise=
+Kirisame Marisa=
+Ordinary Magician=
+Alice Margatroid=
+Seven-Colored Puppeteer=
+Fumo Plush: @1=
+Fumo Plush Base=
