@@ -39,6 +39,16 @@ local fumos = {
         name = S("Alice Margatroid"),
         title = S("Seven-Colored Puppeteer"),
         craftitem = "wool:white"
+    },
+    cirnowhatsapp = {
+        name = S("Cirno (WhatsApp variant)"),
+        title = S("Fairy of the Green App"),
+        craftitem = "wool:green"
+    },
+    mikuhatsune = {
+        name = S("Hatsune Miku"),
+        title = S("Number One Princess in the World"),
+        craftitem = "wool:blue"
     }
 }
 

@@ -1,4 +1,6 @@
 # textdomain: fumoplushies
+
+##[ init.lua ]##
 Cirno=
 Fairy of the Ice=
 Hakurei Reimu=
@@ -7,5 +9,9 @@ Kirisame Marisa=
 Ordinary Magician=
 Alice Margatroid=
 Seven-Colored Puppeteer=
+Cirno (WhatsApp variant)=
+Fairy of the Green App=
+Hatsune Miku=
+Number One Princess in the World=
 Fumo Plush: @1=
 Fumo Plush Base=
