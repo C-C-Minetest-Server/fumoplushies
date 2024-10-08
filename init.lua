@@ -49,6 +49,11 @@ local fumos = {
         name = S("Hatsune Miku"),
         title = S("Number One Princess in the World"),
         craftitem = "wool:blue"
+    },
+    saber = {
+        name = S("Saber"),
+        title = nil,
+        craftitem = "default:diamond",
     }
 }
 
