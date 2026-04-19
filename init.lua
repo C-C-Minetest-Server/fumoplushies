@@ -85,7 +85,6 @@ for k, v in pairs(fumos) do
             choppy = 2,
             oddly_breakable_by_hand = 3,
             flammable = 3,
-            wool = 1
         },
         use_texture_alpha = "blend",
     })
